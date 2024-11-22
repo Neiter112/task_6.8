@@ -12,4 +12,3 @@ const pt = document.querySelector('#pt');
 pt.addEventListener('click', function() {
      alert('prompt() — это метод объекта window в JavaScript, который выводит диалоговое окно с сообщением, текстовым полем для ввода данных и кнопками «ОК» и «Отмена».');
 })
-const result = prompt(message, default) (https://itchief.ru/javascript/alert-prompt-confirm));
