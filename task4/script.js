@@ -4,4 +4,3 @@ change.addEventListener('click', function (event) {
     const change = document.querySelector('#change');
     change.textContent = userText;
 })
-
