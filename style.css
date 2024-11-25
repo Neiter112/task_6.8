@@ -1,0 +1,44 @@
+header {
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color:#FFFFFF;
+    background-size: cover;
+    text-decoration: none;
+}
+
+.List {
+    background-color: #A9C3E9;
+    padding: 50px 0 32px;
+}
+
+article {
+    width: 500px;
+    margin: 0 auto 32px;
+    padding: 6px 15px;
+}
+body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background-size: cover;
+    text-decoration: none;
+    line-height: 60px;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+Footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 320px;
+    background-color:burlywood ;
+    background-size: cover;
+}
