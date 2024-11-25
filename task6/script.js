@@ -3,7 +3,7 @@ const TrafficLight2 = document.querySelector('#TrafficLight2');
 const TrafficLight3 = document.querySelector('#TrafficLight3');
 
 function makeGreen() {
-    TrafficLight1.style.background = ('green');
+    TrafficLight1.style.background = ('#00FF00');
     TrafficLight2.style.background = ('black');
     TrafficLight3.style.background = ('black');
     TrafficLight1.removeEventListener('click', makeGreen);
