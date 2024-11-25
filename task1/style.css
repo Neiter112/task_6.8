@@ -1,0 +1,27 @@
+#circle {
+    margin-left: 600px;
+    margin-right: 600px;
+    width: 500px;
+    height: 500px;
+    border: dashed black;
+    border-radius: 50%;
+    border-width: 2px;
+    animation-name: rotation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  
+  @keyframes rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+}
+
+.text {
+    margin-left: 100px;
+    margin-top: 250px;
+}
