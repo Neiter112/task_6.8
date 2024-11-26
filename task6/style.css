@@ -23,13 +23,12 @@ body {
     background-color:#0039A6 ;
     background-size: cover; 
 }
+
 Footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 196px;
-    background-color:#D52B1E ;
-    background-size: cover;
+    background-color: #D52B1E;
+    padding-top: 25px;
+    padding-bottom: 250px;
+    text-align: center;
 }
 
 p {
